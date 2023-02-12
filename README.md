@@ -15,7 +15,7 @@ I have three masters:
 - [MBA in Marketing](https://nabi.me/resume/mba-in-marketing) from the University of Tehran
 - Master of Science in Data Science from the University of British Columbia, In progress.
 
-For almost eight years, I have worked with tech enterprises like [Huawei Technologies](https://nabi.me/resume/2018-product-marketing-manager) and hyper-growth Canadian startups like [Railz AI](https://nabi.me/resume/2021-demand-generation-manager). I have **managed over a $2M** marketing budget, increased its Return on Investment **(ROI) to 136%**, and **contributed $8.25M in Annual Recurring Revenue (ARR)**. As a data-driven marketer, I designed strategies to engage with users and analyzed their behavior metrics, conversions, and retentions for **over 1 million yearly active users**.
+For almost seven years, I have worked with tech enterprises like [Huawei Technologies](https://nabi.me/resume/2018-product-marketing-manager) and hyper-growth Canadian startups like [Railz AI](https://nabi.me/resume/2021-demand-generation-manager). I have **managed over a $2M** marketing budget, increased its Return on Investment **(ROI) to 136%**, and **contributed $8.25M in Annual Recurring Revenue (ARR)**. As a data-driven marketer, I designed strategies to engage with users and analyzed their behavior metrics, conversions, and retentions for **over 1 million yearly active users**.
 
 Specializing in the design of user research plans and implementation of user behavior tracking platforms, I have developed a range of business metrics dashboards and data analysis tools to evaluate the effectiveness and return on investment of marketing programs.
 
