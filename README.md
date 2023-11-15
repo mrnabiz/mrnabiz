@@ -11,11 +11,11 @@ So I couldn't open a bank account with them.
 
 ## 🐣→💡→🚀 About me
 I have three masters:
-- [M.Sc. in Geotechnical & Geoenvironmental Engineering](https://nabi.me/resume/msc-geotechnical-engineering) from Iran University of Science and Technology
+- [M.Sc. in Geotechnical & Geoenvironmental Engineering](https://nabi.me/resume/msc-geotechnical-engineering)
 - [MBA in Marketing](https://nabi.me/resume/mba-in-marketing) from the University of Tehran
-- Master of Science in Data Science from the University of British Columbia, In progress.
+- [Master of Science in Data Science](https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-mohammad-reza-nabizadeh-nabi-mds) from the University of British Columbia.
 
-For almost seven years, I have worked with tech enterprises like [Huawei Technologies](https://nabi.me/resume/2018-product-marketing-manager) and hyper-growth Canadian startups like [Railz AI](https://nabi.me/resume/2021-demand-generation-manager). I have **managed over a $2M** marketing budget, increased its Return on Investment **(ROI) to 136%**, and **contributed $8.25M in Annual Recurring Revenue (ARR)**. As a data-driven marketer, I designed strategies to engage with users and analyzed their behavior metrics, conversions, and retentions for **over 1 million yearly active users**.
+For almost eight years, I have worked with tech enterprises like [Huawei Technologies](https://nabi.me/resume/2018-product-marketing-manager) and hyper-growth Canadian startups like [Railz AI](https://nabi.me/resume/2021-demand-generation-manager). I have **managed over a $2M** marketing budget, increased its Return on Investment **(ROI) to 136%**, and **contributed $8.25M in Annual Recurring Revenue (ARR)**. As a data-driven marketer, I designed strategies to engage with users and analyzed their behavior metrics, conversions, and retentions for **over 1 million yearly active users**.
 
 Specializing in the design of user research plans and implementation of user behavior tracking platforms, I have developed a range of business metrics dashboards and data analysis tools to evaluate the effectiveness and return on investment of marketing programs.
 
@@ -24,7 +24,7 @@ I have done numerous data analytics in interaction-based customer segmentation, 
 <p><a href="https://www.linkedin.com/in/mnabizadeh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> <a href="https://nabi.me" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" style="height:25px" /></a></p>
 
 ## 👨‍💻 Work
-I am currently completing UBC's MDS program and teaching topics in Business Analytics, Predictive Methods, and Machine Learning part-time as a Sessional Faculty at the University of Canada West. You may have also heard my voice for being a co-host at 🎙️ DataForge fireside chats at [Data Science at Home](https://datascienceathome.com) podcast. I am Growth Data Science Strategist and actively looking for marketing data science and management opportunities to pace your team's way toward building the next cool data product.
+I am currently working as the Associate Director of Marketing Analytics and Integration at [Klick Health](https://www.klick.com/) and teaching topics in Business Analytics, Predictive Methods, and Machine Learning part-time as a Sessional Faculty at [University Canada West](https://www.ucanwest.ca/graduate-programs/master-of-business-administration/). You may have also heard my voice for being a co-host at 🎙️ DataForge fireside chats at [Data Science at Home](https://datascienceathome.com) podcast. I am Growth Data Science Strategist I would love to hear your idea and pace your team's way toward building the next cool data product.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> What I know
 ### 🗣️ Languages
@@ -32,13 +32,10 @@ I am currently completing UBC's MDS program and teaching topics in Business Anal
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### 💾 Databases
+### 💾 Databases and Data Warehouses
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -64,8 +61,6 @@ I am currently completing UBC's MDS program and teaching topics in Business Anal
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### 💻 IDEs/Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -101,5 +96,7 @@ I am currently completing UBC's MDS program and teaching topics in Business Anal
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+<!---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github status
-<p><img src="https://github-readme-stats.vercel.app/api?username=mrnabiz&amp;show_icons=true" style="height:250px; width:520px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnabiz&amp;show_icons=true&amp;layout=compact" style="height:250px; width:460px" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mrnabiz&amp;show_icons=true" style="height:250px; width:520px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnabiz&amp;show_icons=true&amp;layout=compact" style="height:250px; width:460px" /></p> 
+-->
