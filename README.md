@@ -1,14 +1,4 @@
 # Hi there, My name is Nabi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-It's Mohammad Reza Nabizadeh Shahrbabak (34 character-name! 🤯 Pretty long, eh?)
-
-🫠 **Fun fact**: When I decided to open an account with RBC bank, I realized the [Wizard of Oz](https://www.brentozar.com/archive/2012/10/learn-speak-dba-slang-terms/) designed the DB like this 👇
-```sql
-CREATE TABLE accountholder (
-    Name varchar(27)
-);
-```
-So I couldn't open a bank account with them.
-
 ## 🐣→💡→🚀 About me
 With a diverse background in digital marketing, strategies, marketing analytics, and data science, my career began as a Geotechnical Engineer - Data & Analytics in 2014 after finishing my [B.Sc.](https://nabi.me/resume/bsc-civil-engineering) and [M.Sc. in Civil Engineering](https://nabi.me/resume/msc-geotechnical-engineering). I pivoted to Marketing Analytics in 2016, combining my data analytics skills with digital marketing, later enhanced by an [MBA](https://nabi.me/resume/mba-in-marketing). At companies like [Huawei Technologies](https://nabi.me/resume/2018-product-marketing-manager) and [Railz AI](https://nabi.me/resume/2021-demand-generation-manager), I managed significant marketing budgets, substantially increasing ROI and revenue. Recognizing the need for deeper data science knowledge, I pursued a [Master's in Data Science at the University of British Columbia](https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-mohammad-reza-nabizadeh-nabi-mds) in 2022. Currently, as the Associate Director of Marketing Analytics and Integration at Klick Health, I have orchestrated data analytics infrastructures for six $2B+ pharmaceutical brands and bridged the gap between business stakeholders and data science teams in the health sciences and pharmaceutical sector, leveraging my extensive experience in data applications across various industries. I also teach topics in Business Analytics, Predictive Methods, and Machine Learning as a Sessional Faculty at [University Canada West](https://www.ucanwest.ca/graduate-programs/master-of-business-administration/). I am Growth Data Science Strategist I would love to hear your idea and pace your team's way toward building the next cool data product.
 
